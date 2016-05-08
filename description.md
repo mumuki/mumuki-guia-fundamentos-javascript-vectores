@@ -1,0 +1,1 @@
+Llegó el momento de hacer algo nuevo: tratar con muchas cosas a la vez. Conozcamos a los vectores, tambien llamados _arrays_

@@ -1,0 +1,20 @@
+---
+name: Arrays
+locale: es
+type: learning
+beta: false
+teacher_info: |-
+  * Arrays
+
+     * ¡Muchas cosas!
+     * Arrays vacíos
+     * Agregamos sabor
+     * ¿Y dónde está?
+     * Iterando ando
+        > Mapeo
+        > Filtrado
+        > Sumando
+        > Contando
+language: javascript
+id_format: '%05d'
+order: []
