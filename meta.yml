@@ -3,18 +3,15 @@ name: Arrays
 locale: es
 type: learning
 beta: false
-teacher_info: |-
-  * Arrays
-
-     * ¡Muchas cosas!
-     * Arrays vacíos
-     * Agregamos sabor
-     * ¿Y dónde está?
-     * Iterando ando
-        > Mapeo
-        > Filtrado
-        > Sumando
-        > Contando
+teacher_info: ''
 language: javascript
 id_format: '%05d'
-order: []
+order:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
