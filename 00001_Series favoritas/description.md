@@ -1,4 +1,4 @@
-Empecemos por algo fácil: supongamos que queremos representar al conjunto de nuestras series favoritas. ¿Cómo podríamos hacerlo? 
+Supongamos que queremos representar al conjunto de nuestras series favoritas. ¿Cómo podríamos hacerlo? 
 
 ```javascript
 var seriesFavoritasDeAna = ["Game of Thrones", "Breaking Bad", "House of Cards"];
