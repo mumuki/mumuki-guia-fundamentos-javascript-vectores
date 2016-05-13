@@ -8,6 +8,8 @@ language: javascript
 id_format: '%05d'
 order:
 - 1
+- 11
+- 10
 - 2
 - 5
 - 4
@@ -16,5 +18,3 @@ order:
 - 6
 - 7
 - 9
-- 10
-- 11
