@@ -1,6 +1,6 @@
 ¡Bien hecho!
 
-Si venís prestando atención a los ejemplos de consulta, habrás notado que los arrays también pueden tener elementos duplicados: `[1, 2, 1]`, 1 `["hola", "hola"]`, etc.
+Si venís prestando atención a los ejemplos de consulta, habrás notado que los arrays también pueden tener elementos duplicados: `[1, 2, 1]`, `["hola", "hola"]`, etc.
 
 Por tanto, `indexOf` en realidad devuelve la posición de la _primera aparición_ del elemento en el array. Por ejemplo:
 

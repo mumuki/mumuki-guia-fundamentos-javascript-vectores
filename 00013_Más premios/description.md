@@ -2,9 +2,9 @@ Si le pedís un elemento en una posición que iguala o excede al tamaño del arr
 
 Así que estás advertido: ¡no te pases de índice!
 
-> Teniendo esto en cuenta, te proponemos un desafío: escribí nuevamente la función `medallaSegunPuesto`, que desearrollamos anteriormente, pero esta vez usando como máximo un sólo `if`. Quizás los arrays te pueden ser útiles acá :wink:.
+> Teniendo esto en cuenta, va un desafío: escribí nuevamente la función `medallaSegunPuesto`, pero esta vez usando como máximo un sólo `if`. Quizás los arrays te pueden ser útiles acá :wink:.
 >
-> Ah, te recordamos el problema: la función `medallaSegunPuesto` tiene que devolver la medalla que le corresponde a los primeros puestos de una competencia:
+> Ah, te recordamos la función: tiene que devolver la medalla que le corresponde a los primeros puestos de una competencia:
 >
 >```javascript
 >ム medallaSegunPuesto(1)

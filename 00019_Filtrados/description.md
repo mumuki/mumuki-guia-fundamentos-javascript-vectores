@@ -1,4 +1,4 @@
-Y para cerrar, Ana nos dejó con un problema más interesante: quiere saber los saldos de los meses que hubo ganancia :scream:.
+Ya sobre la hora :clock530:, Ana nos dejó con un problema más interesante: quiere saber los saldos de los meses que hubo ganancia :scream:.
 
 ```javascript
 ム saldosDeMesesConGanancia([100, 20, 0, -10, 10])
