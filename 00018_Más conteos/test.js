@@ -18,6 +18,6 @@ describe("cantidadDeMesesConPerdida", function() {
     assert.deepEqual(cantidadDeMesesConPerdida([-1, -2, -3]), 3)
   })
   it("cantidadDeMesesConPerdida([-1, -2, -3, -1, -1, -10]) es 6", function() {
-    assert.deepEqual(cantidadDeMesesConPerdida([-1, -2, -3]), 6)
+    assert.deepEqual(cantidadDeMesesConPerdida([-1, -2, -3, -1, -1, -10]), 6)
   })
 })
