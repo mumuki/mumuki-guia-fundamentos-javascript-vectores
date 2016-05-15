@@ -20,7 +20,7 @@ Entonces,  tenemos que _repetir_ la operación de sumar varias veces... ¿te sue
 ```javascript
 function gananciaTotal(unPeriodo) {
   var sumatoria = 0;
-  for (var i = 0; i < unPeriodo.length, i++) {
+  for (var i = 0; i < unPeriodo.length; i++) {
     sumatoria = sumatoria + unPeriodo[i];
   }
   return sumatoria;
