@@ -10,6 +10,6 @@ Bueno, ya hablamos bastante; ¡es hora de la acción :movie_camera:!
 >
 > trasladar(unArray, otroArray);
 >
-> unArray ===  [1, 2]; //debería ser true
-> otroArray === [4, 5, 3]; //debería ser true
+> unArray //debería ser [1, 2]
+> otroArray //debería ser [4, 5, 3]
 >```
