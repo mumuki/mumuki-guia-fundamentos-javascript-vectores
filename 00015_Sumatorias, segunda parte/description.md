@@ -4,8 +4,9 @@ La función anterior tiene dos problemas:
 
 1. Es muy repetitiva y tediosa de escribir. ¡Tenemos que hacer muchas sumas a mano!
 1. Y no es genérica, sólo sirve para arrays de 6 elementos:
-  1. si tiene más de seis elementos, sólo suma los primeros
-  1. si tiene menos, devuelve cosas bizarras (¿te acordás cuando te dijimos que si se ibas de índice cosas malas podían ocurrir :stuck_out_tongue:?)
+
+  * si tiene más de seis elementos, sólo suma los primeros
+  * si tiene menos, devuelve cosas bizarras (¿te acordás cuando te dijimos que si te ibas de índice cosas malas podían ocurrir :stuck_out_tongue: ?)
 
 Lo que nos gustaría es poder sumar de forma genérica, a todos los elementos del array, sin importar cuántos haya realmente. ¡Qué difícil!
 
