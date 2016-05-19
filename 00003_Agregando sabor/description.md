@@ -2,7 +2,7 @@ Los arrays son muy útiles para contener múltiples elementos. Pero hay algo má
 
 ```javascript
 var pertenencias = ["espada", "escudo", "antorcha"];
-//pretenencias.length acá vale 3;
+//pertenencias.length acá vale 3;
 
 pertenencias.push("amuleto mágico");
 //ahora pertenencias.length vale 4
