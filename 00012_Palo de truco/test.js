@@ -16,7 +16,7 @@ describe("paloDeTruco", function() {
       '12 de espadas' ]);
   });
 
-  it('paloDeTruco("bastos") debería ser ["1 de bastos", "2 de bastos"...', , function() {
+  it('paloDeTruco("bastos") debería ser ["1 de bastos", "2 de bastos"...', function() {
     assert.deepEqual(
       paloDeTruco("bastos"),
       [ '1 de bastos',
