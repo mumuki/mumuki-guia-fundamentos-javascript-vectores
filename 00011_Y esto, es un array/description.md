@@ -6,7 +6,13 @@ Y no sólo eso, sino que además, el orden es importante. Por ejemplo, no es lo 
 
 > Probá en la consola las siguientes consultas: 
 > 
+> * `arraysIguales(["hola", "mundo"], ["mundo", "hola"])`
+> * `arraysIguales(["hola", "mundo"], ["hola", "mundo"])`
+> * `arraysIguales(["hola", "mundo"], ["hola", "todo", "el", "mundo"])`
+> * `arraysIguales(["hola"], ["hola", "mundo"])`
 > * `["hola", "mundo"] === ["mundo", "hola"]`
-> * `["hola", "mundo"] === ["hola", "mundo"]`
-> * `["hola", "mundo"] === ["hola", "todo", "el", "mundo"]`
-> * `["hola"] === ["hola", "mundo"]`
+> * `personas`
+> * `["mara", "julian"] === personas`
+> * `personas === personas`
+
+> ¿Qué conclusiones podés sacar?
