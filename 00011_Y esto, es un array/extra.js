@@ -6,7 +6,7 @@ function arraysIguales(unArray, otroArray) {
             if (!arraysIguales(unArray[i], otroArray[i]))
               return false;
         }           
-        else if (unArray[i] != array[i])
+        else if (unArray[i] != otroArray[i])
           return false;   
     }       
     return true;
