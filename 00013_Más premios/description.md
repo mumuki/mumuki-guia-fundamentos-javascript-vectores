@@ -14,7 +14,7 @@ Así que estás advertido: ¡no te pases de índice!
 >ム medallaSegunPuesto(3)
 >"bronce"
 >ム medallaSegunPuesto(4)
->"plata"
+>"nada"
 >ム medallaSegunPuesto(5)
 >"nada"
 ```
