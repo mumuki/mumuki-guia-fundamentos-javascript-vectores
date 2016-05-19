@@ -2,11 +2,11 @@ describe("paloDeTruco", function() {
   var paloAlAzar =  Math.random().toString(36).substring(2);
 
   it('paloDeTruco("espadas") NO debería contener el "8 de espadas"', function() {
-    assert(paloDeTruco("espadas").indexOf("8 de espadas") < 0));
+    assert(paloDeTruco("espadas").indexOf("8 de espadas") < 0);
   });
 
   it('paloDeTruco("espadas") NO debería contenerel "9 de espadas"', function() {
-    assert(paloDeTruco("espadas").indexOf("9 de espadas") < 0));
+    assert(paloDeTruco("espadas").indexOf("9 de espadas") < 0);
   });
 
   it('paloDeTruco("espadas") debería ser ["1 de espadas", "2 de espadas"...', function() {
