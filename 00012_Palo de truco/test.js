@@ -1,7 +1,7 @@
 describe("paloDeTruco", function() {
   var paloAlAzar =  Math.random().toString(36).substring(2);
 
-  it('paloDeTruco("espadas")', function() {
+  it('paloDeTruco("espadas") debería ser ["1 de espadas", "2 de espadas"...', function() {
     assert.deepEqual(
       paloDeTruco("espadas"),
       [ '1 de espadas',
@@ -16,9 +16,9 @@ describe("paloDeTruco", function() {
       '12 de espadas' ]);
   });
 
-  it('paloDeTruco("bastos")', function() {
+  it('paloDeTruco("bastos") debería ser ["1 de bastos", "2 de bastos"...', , function() {
     assert.deepEqual(
-      paloDeTruco("espadas"),
+      paloDeTruco("bastos"),
       [ '1 de bastos',
       '2 de bastos',
       '3 de bastos',
@@ -31,7 +31,7 @@ describe("paloDeTruco", function() {
       '12 de bastos' ]);
   });
 
-  it('paloDeTruco("'+paloAlAzar+'")', function() {
-    assert(paloDeTruco(paloAlAzar).indexOf(paloAlAzar) > 0);
+  it(`paloDeTruco("'+paloAlAzar+'") deberia tener el "3 de ${paloAlAzar}"`, function() {
+    assert(paloDeTruco(paloAlAzar).indexOf(`3 de ${paloAlAzar}`) > 0);
   });
 })
