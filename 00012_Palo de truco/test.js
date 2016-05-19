@@ -31,7 +31,7 @@ describe("paloDeTruco", function() {
       '12 de bastos' ]);
   });
 
-  it(`paloDeTruco("'+paloAlAzar+'") deberia tener el "3 de ${paloAlAzar}"`, function() {
+  it(`paloDeTruco("${paloAlAzar}") deberia tener el "3 de ${paloAlAzar}"`, function() {
     assert(paloDeTruco(paloAlAzar).indexOf(`3 de ${paloAlAzar}`) > 0);
   });
 })
