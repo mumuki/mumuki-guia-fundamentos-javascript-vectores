@@ -1,4 +1,4 @@
-describe("cantidadDeMesesConGanancia", function() {
+describe("", function() {
   it("cantidadDeMesesConGanancia([1]) es 1", function() {
     assert.deepEqual(cantidadDeMesesConGanancia([1]), 1)
   })

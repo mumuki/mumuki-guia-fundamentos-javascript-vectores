@@ -1,4 +1,4 @@
-describe("paloDeTruco", function() {
+describe("", function() {
   var paloAlAzar =  Math.random().toString(36).substring(2);
 
   it('paloDeTruco("espadas") NO debería contener el "8 de espadas"', function() {

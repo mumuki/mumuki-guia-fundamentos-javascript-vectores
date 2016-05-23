@@ -1,4 +1,4 @@
-describe("contiene", () => {
+describe("", () => {
   it("contiene([1, 6, 7, 6], 7) es true", () => {
     assert(contiene([1, 6, 7, 6], 7));
   })

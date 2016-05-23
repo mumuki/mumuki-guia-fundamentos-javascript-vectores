@@ -1,4 +1,4 @@
-describe("cantidadDeMesesConPerdida", function() {
+describe("", function() {
   it("cantidadDeMesesConPerdida([1]) es 0", function() {
     assert.deepEqual(cantidadDeMesesConPerdida([1]), 0)
   })
