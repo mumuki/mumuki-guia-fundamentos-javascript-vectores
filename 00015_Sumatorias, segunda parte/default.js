@@ -1,4 +1,3 @@
-```javascript
 function gananciaTotal4(unPeriodo) {
   var sumatoria = 0;
   
@@ -6,4 +5,3 @@ function gananciaTotal4(unPeriodo) {
   
   return sumatoria;
 }
-```
