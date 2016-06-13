@@ -54,4 +54,4 @@ function gananciaTotal3(unPeriodo) {
 
 ¿Y si tuviera N elementos?
 
-> ¿Empezas a ver un patrón? Tomate un tiempo para buscarlo y seguínos.
+> ¿Empezas a ver un patrón? Tratá de escribir una versión de `gananciaTotal` que funcione para 4 elementos.
