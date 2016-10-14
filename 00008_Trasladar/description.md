@@ -1,6 +1,6 @@
 Bueno, ya hablamos bastante; ¡es hora de la acción :movie_camera:!
 
-> Declará un procedimiento `trasladar`, que tome dos arrays, saque el último elemento del primero y lo agregue al segundo. 
+> Declará una función `trasladar`, que tome dos arrays, saque el último elemento del primero y lo agregue al segundo. 
 >
 > Ejemplo: 
 >
