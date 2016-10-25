@@ -1,6 +1,8 @@
 Bueno, ya hablamos bastante; ¡es hora de la acción :movie_camera:!
 
-> Declará una función `trasladar`, que reciba dos arrays, saque el último elemento del primero y lo agregue al segundo. 
+> Declará una función `trasladar`, que reciba dos arrays como parámetro. Tiene que sacar el último elemento del primer array recibido y lo agregue al segundo array. 
+> No hace falta crear las variables con los arrays, sencillamente ponerlas como parámetro, nosotros te las enviaremos allí.
+>
 >
 > Ejemplo: 
 >
@@ -10,6 +12,6 @@ Bueno, ya hablamos bastante; ¡es hora de la acción :movie_camera:!
 >
 > trasladar(unArray, otroArray);
 >
-> unArray //debería ser [1, 2]
-> otroArray //debería ser [4, 5, 3]
+> unArray //quedaría: [1, 2]
+> otroArray //quedaría:  [4, 5, 3]
 >```
