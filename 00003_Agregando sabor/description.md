@@ -14,5 +14,6 @@ Como vemos, `push` agrega un elemento a la lista.
 > Averigualo vos mismo: inspeccioná en la consola que elementos contiene `pertenencias`, agregale una `"ballesta"` y volvé a inspeccionar `pertenencias`.
 >
 > Para sacar elementos utilizamos el método `pop()`. Este método no sólo saca el último elemento de nuestro array, sino que además imprime el valor que quitó.
+>
 > Investigá en la consola qué hace y presta especial atención a este doble comportamiento del pop(), por ejemplo: `pertenencias.pop()`
 
