@@ -1,6 +1,7 @@
-¡Ahora te toca a vos!
+Vamos a ver un ejemplito de como usuaríamos el indexOf.
 
-> Escribí la función `contiene`, que nos diga si un array contiene a un cierto elemento.
+> Escribí la función `contiene`, que recibe dos parámetros, el primero es un array y el segundo es un elemento. 
+La función nos debería decir, si en el array recibido está o no está el elemento también recibido por parámetro.
 >
 > ```javascript
 > ム contiene([1, 6, 7, 6], 7)
