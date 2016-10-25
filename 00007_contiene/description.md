@@ -14,4 +14,4 @@ La función nos debería decir, si en el array recibido por parámetro está o n
 > false
 > ```
 >
-> Observar que la función devuelve true o false y no un número, es decir, no tenemos que devolver la posición del elemento sino preguntar primero si está el elemento y luego devolver true o false en cada caso.
+> Observar que la función devuelve true o false y no un número, es decir, no tenemos que devolver la posición del elemento sino preguntar primero si está el elemento, ¿cómo haciamos esto? y luego devolver true en caso de que este y false en caso de que no este.
