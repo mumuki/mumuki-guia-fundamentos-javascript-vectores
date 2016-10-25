@@ -1,8 +1,7 @@
 Otro método útil de los arrays es `indexOf`, que nos dice en que posición está un elemento dentro del array:
 
 ```javascript
-var miArray = ["a", "la", "grande", "le", "puse", "cuca"];
-miArray.indexOf("grande"); //devuelve 2
+["a", "la", "grande", "le", "puse", "cuca"].indexOf("grande"); //devuelve 2
 
 var diasLaborales = ["lunes", "martes", "miercoles", "jueves", "viernes"]
 diasLaborales.indexOf("lunes"); //devuelve 0
