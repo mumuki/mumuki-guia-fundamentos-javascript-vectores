@@ -13,3 +13,5 @@ La función nos debería decir, si en el array recibido por parámetro está o n
 > ム contiene([8, 5], 7)
 > false
 > ```
+>
+> Observar que la función devuelve true o false y no un número, es decir, no tenemos que devolver la posición del elemento sino preguntar primero si está el elemento y luego devolver true o false en cada caso.
