@@ -1,4 +1,4 @@
-Lo que acabamos de ver es que podemos fácilmente modelar conjuntos de cosas. Y eso se debe a que en JavaScript, contamos con el tipo de dato _array_, también conocido como vector, que acabamos de conocer. 
+Lo que acabamos de ver es que podemos fácilmente modelar conjuntos de cosas. Y eso se debe a que en JavaScript, contamos con el tipo de dato _array_, también conocido como vector, que acabamos de conocer. Un array es una lista de elementos, pueden ser textos, números, entre otras cosas.
 
 Los arrays pueden tener múltiples elementos, ¡no hay límite!
 
