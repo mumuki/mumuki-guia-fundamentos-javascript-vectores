@@ -20,7 +20,7 @@ No, se trata de que en JavaScript, al igual que en muchos lenguajes, las posicio
 > ```
 >
 > Como habrás visto, cuando hacemos un indexOf de un elemento que no está en nuestro array nos devuelve el número -1.
-Ahora ya podríamos saber si un elemento está o no está en un array dependiendo del número nos devuelva el index of sea -1 ó no.
+Ahora ya podríamos saber si un elemento está o no está en un array dependiendo del número nos devuelva el indexOf sea -1 ó no.
 >
 
 
