@@ -4,7 +4,7 @@ Los arrays son muy útiles para contener múltiples elementos. Pero hay algo má
 var pertenencias = ["espada", "escudo", "antorcha"];
 pertenencias.push("amuleto mágico");
 
-//quedaria; ["espada","escudo","antorcha","amuleto mágico"];
+//quedaria->["espada","escudo","antorcha","amuleto mágico"];
 
 ```
 
