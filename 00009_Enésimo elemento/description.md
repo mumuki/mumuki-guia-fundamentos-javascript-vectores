@@ -2,8 +2,10 @@ Como te acabamos de _spoilear_, existe un operador para averiguar qué elemento 
 
 ```javascript
 ム var mesesDelAnio = ["enero","febrero","marzo",....];
+
 ム mesesDelAnio[0]
 "enero"
+
 ム ["ese", "perro", "tiene", "la", "cola", "peluda"][1]
 "perro"
 ```
