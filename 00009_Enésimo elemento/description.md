@@ -9,7 +9,7 @@ Como te acabamos de _spoilear_, existe un operador para averiguar qué elemento 
 ム ["ese", "perro", "tiene", "la", "cola", "peluda"][1]
 "perro"
 ```
-Genial! Podemos acceder directamente a una posición de un array!
+Genial! Podemos acceder directamente a un elemento utilizando la posición de un array!
 ¡Ojo! El índice que le pasás debe ser menor a la longitud del array, o cosas malas pueden suceder.
 
 > Probalo vos mismo en la consola: 
