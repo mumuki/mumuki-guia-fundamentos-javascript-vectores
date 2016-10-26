@@ -9,7 +9,9 @@ Como te acabamos de _spoilear_, existe un operador para averiguar qué elemento 
 ム ["ese", "perro", "tiene", "la", "cola", "peluda"][1]
 "perro"
 ```
-Genial! Podemos 
+Genial! Podemos acceder directamente a una posición de un array!
 ¡Ojo! El índice que le pasás debe ser menor a la longitud del array, o cosas malas pueden suceder.
 
-> Probalo vos mismo en la consola: ¿qué sucede si le pedís el elemento 0 a una lista vacía? ¿O si le pedís el elemento 48 a una lista de 2 elementos?
+> Probalo vos mismo en la consola: 
+> Crea una variable que sea un array vacio. Luego pedile la posición 0 a ese array, que pasa??
+> Crea una variable que sea un array con dos elementos cualquiera, si le pedimos el elemento 48??
