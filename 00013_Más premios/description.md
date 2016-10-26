@@ -18,13 +18,4 @@ Así que estás advertido: ¡no te pases de índice!
 >ム medallaSegunPuesto(5)
 >"nada"
 ```
->
-> Recordá como acceder a los elementos utilizando el índice;
->
->```javascript
-> var frutas = ["manzana", "pera", "kiwi"];
-> ムfrutas[0]
->"manzana"
-> ムfrutas[1]
->"pera" 
-```
+
