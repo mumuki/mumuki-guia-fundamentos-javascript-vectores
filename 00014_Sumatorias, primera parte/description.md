@@ -29,4 +29,14 @@ Y nos quedamos pensando :thought_balloon:.
 
 > ¿Tiene algún problema la función que escribimos anteriormente? ¿Funcionará con trimestres? ¿Y con cuatrimestres?
 >
-> ¡Probala en la consola!
+> ¡Probá en la consola esto: Recordá que ya creamos por vos sumatoriaGananciasSemestre, gananciasUltimoSemestre y gananciasPrimerTrimestre!
+>
+>```javascript
+>ム sumatoriaGananciasSemestre(gananciasUltimoSemestre)
+>ム sumatoriaGananciasSemestre(gananciasPrimerTrimestre)
+>```
+>
+
+
+
+
