@@ -36,6 +36,7 @@ Y nos quedamos pensando :thought_balloon:.
 >ム sumatoriaGananciasSemestre(gananciasPrimerTrimestre)
 >```
 >
+> Que pasó?
 
 
 
