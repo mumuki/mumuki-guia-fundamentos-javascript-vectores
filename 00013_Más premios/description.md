@@ -2,7 +2,7 @@ Si le pedís un elemento en una posición que iguala o excede al tamaño del arr
 
 Así que estás advertido: ¡no te pases de índice!
 
-> Teniendo esto en cuenta, va un desafío: escribí nuevamente la función `medallaSegunPuesto`, que recibe por parámetro un puesto (un número). Para esta función utilizar como máximo un sólo `if`. Quizás los arrays te pueden ser útiles acá :wink:.
+> Teniendo esto en cuenta, va un desafío: escribí nuevamente la función `medallaSegunPuesto`, que recibe por parámetro un puesto, osea un número. Para esta función utilizar como máximo un sólo `if`. Quizás los arrays te pueden ser útiles acá :wink:.
 >
 > Ah, te recordamos la función: tiene que devolver la medalla que le corresponde a los primeros puestos de una competencia:
 >
