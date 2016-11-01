@@ -1,4 +1,4 @@
-_"Ah, pero esto no termina acá"_ - dijo Ana - _"Quiero saber en cuántos meses hubo ganancia, es decir, que el saldo mayor a cero"_.
+_"Ah, pero esto no termina acá"_ - dijo Ana - _"Quiero saber en cuántos meses hubo ganancia, es decir, aquellos meses cuyo saldo sea mayor a cero contabilizarlos, si hubo 5, 2 o qué cantidad de meses hubo ganancias"_.
 
 Por ejemplo:
 
