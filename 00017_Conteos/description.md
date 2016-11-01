@@ -6,7 +6,7 @@ Por ejemplo:
 > ム cantidadDeMesesConGanancia([10, 50, -20])
 > 2
 >
-> ム cantidadDeMesesConGanancia([0, 2222, -55])
+> ム cantidadDeMesesConGanancia([2222, -55, 0])
 > 1
 > ```
 
