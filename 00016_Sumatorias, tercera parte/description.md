@@ -52,9 +52,11 @@ La variable i es una variable cualquiera que la única característica que tiene
 Justamente para recorrer un array!!
 
 ```javascript
+//lo que antes era así...
   sumatoria = sumatoria + unPeriodo[0];
   sumatoria = sumatoria + unPeriodo[1];
   sumatoria = sumatoria + unPeriodo[2];
+//ahora vamos por:
   for (var i = 0; i < unPeriodo.length; i++) {
     sumatoria = sumatoria + unPeriodo[i];
   }
