@@ -29,7 +29,9 @@ function gananciaTotal(unPeriodo) {
 }
 ```
 Como ves, simplemente repetimos la idea de "sumar el enésimo elemento" tantas veces como elementos haya.
-Pero que son todos esos elementos raros que tiene el FOR? Veamos brevemente cada uno; con la práctica los vas a aprender.
+¿¿Pero que son todos esos elementos raros que tiene el FOR??
+
+Veamos brevemente cada uno; con la práctica los vas a aprender.
 
 1) var i = 0; creamos una variable i, puede ser pepe o lo que quieras, que empieza en 0.
 
