@@ -82,11 +82,10 @@ Se ve para que sirve la i?? cada vuelta por el i++ del FOR; i se suma uno y esto
 
 > ¿Aún no te convenciste? Probá las siguientes expresiones en la consola:
 >
-> gananciaTotal([])
-> gananciaTotal([100])
-> gananciaTotal([100, 2])
-> gananciaTotal([2, 10, -20])
-> gananciaTotal([2, 10, -20, 0, 0, 10, 10])
-
+> `gananciaTotal([])`
+> `gananciaTotal([100])`
+> `gananciaTotal([100, 2])`
+> `gananciaTotal([2, 10, -20])``
+> `gananciaTotal([2, 10, -20, 0, 0, 10, 10])`
 
 
