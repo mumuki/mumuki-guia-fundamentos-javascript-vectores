@@ -64,17 +64,17 @@ Justamente para recorrer un array!!
 
 La primer vuelta del for es:
 
-sumatoria = sumatoria + unPeriodo[i] _, es como decir, _ sumatoria = sumatoria + unPeriodo[0]
+sumatoria = sumatoria + unPeriodo[i] _, es como decir_, sumatoria = sumatoria + unPeriodo[0]
 
 
 La segunda vuelta del for es:
 
-sumatoria = sumatoria + unPeriodo[i] _, es como decir, _ sumatoria = sumatoria + unPeriodo[1]
+sumatoria = sumatoria + unPeriodo[i] _, es como decir_, sumatoria = sumatoria + unPeriodo[1]
 
 
 La tercer vuelta del for es:
 
-sumatoria = sumatoria + unPeriodo[i] _, es como decir, _ sumatoria = sumatoria + unPeriodo[2]
+sumatoria = sumatoria + unPeriodo[i] _, es como decir_, sumatoria = sumatoria + unPeriodo[2]
 
 
 Se ve para que sirve la i?? cada vuelta por el i++ del FOR; i se suma uno y esto hace que nos sirva para recorrer un array de principio a fin. 
