@@ -54,8 +54,8 @@ Justamente para recorrer un array!!
   sumatoria = sumatoria + unPeriodo[0];
   sumatoria = sumatoria + unPeriodo[1];
   sumatoria = sumatoria + unPeriodo[2];
-  ..........
   
+  // esto se puede hacer asi..
   for (var i = 0; i < unPeriodo.length; i++) {
     sumatoria = sumatoria + unPeriodo[i];
   }
