@@ -50,16 +50,14 @@ La clave de todo esto es entender para que utilizamos la variable i.
 La variable i es una variable cualquiera que la única característica que tiene es que por cada vuelta del FOR suma 1, y esto para que me sirve??
 
 Justamente para recorrer un array!!
+
 ```javascript
   sumatoria = sumatoria + unPeriodo[0];
   sumatoria = sumatoria + unPeriodo[1];
   sumatoria = sumatoria + unPeriodo[2];
-  
-  // esto se puede hacer asi..
   for (var i = 0; i < unPeriodo.length; i++) {
     sumatoria = sumatoria + unPeriodo[i];
   }
-
 ```
 
 La primer vuelta del for es:
