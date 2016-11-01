@@ -32,7 +32,7 @@ function gananciaTotal1(unPeriodo) {
 ¿Y si tuviera 2 elementos?
 
 ```javascript
-function gananciaTotal2unPeriodo) {
+function gananciaTotal2(unPeriodo) {
   var sumatoria = 0;
   sumatoria = sumatoria + unPeriodo[0];
   sumatoria = sumatoria + unPeriodo[1];
