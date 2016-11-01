@@ -77,10 +77,10 @@ La tercer vuelta del for es:
 sumatoria = sumatoria + unPeriodo[i] _, es como decir_, sumatoria = sumatoria + unPeriodo[2]
 
 
+
 Se ve para que sirve la i?? cada vuelta por el i++ del FOR; i se suma uno y esto hace que nos sirva para recorrer un array de principio a fin. 
 
 > ¿Aún no te convenciste? Probá las siguientes expresiones en la consola:
->
 > * `gananciaTotal([])`
 > * `gananciaTotal([100])`
 > * `gananciaTotal([100, 2])`
