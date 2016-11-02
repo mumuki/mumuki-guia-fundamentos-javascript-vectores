@@ -20,11 +20,14 @@ for(var i = 0; i < 4 ; i++){
 2
 3
 ```
+
 Recordá como sumar strings con variables
+
 ```javascript
 var edad = 50;
 console.log("Pepa tiene" + edad + "años");
 ```
+
 
 
 
