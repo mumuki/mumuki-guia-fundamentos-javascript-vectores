@@ -9,7 +9,7 @@ Ya sobre la hora :clock530:, Ana nos dejó con un problema más interesante: qui
 
 
 > Recordá que antes utilizabamos la variable `cantidad` que empezaba en 0, para ir sumando de a 1 la cantidad de saldos positivos, en este caso la variable `saldos` es un número? Fijate que es lo que va a terminar devolviendo esta función?
-> Sí...un array, ¿Cóomo lo inicializaríamos?
+> Sí...un array, ¿Cómo lo inicializaríamos?
 >
 > Por otro lado para agregar elementos a un array utilizamos el .push(), es decir, 
 >
