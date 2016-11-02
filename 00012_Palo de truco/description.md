@@ -16,11 +16,13 @@ for(var i = 0; i < 4 ; i++){
   console.log(i);
 }
 //Esto me imprimirá por pantalla:
+0
 1
 2
 3
 ```
 
+¿ Si quisiera que me imprima pero a partir del 1?
 
 
 
