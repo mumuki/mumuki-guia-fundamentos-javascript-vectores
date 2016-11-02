@@ -1,4 +1,4 @@
-Recordá como sumar strings con variables
+¿Recordas como sumar strings con variables?
 
 ```javascript
 var edad = 50;
