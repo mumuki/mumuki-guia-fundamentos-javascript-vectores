@@ -16,7 +16,8 @@ o crear un array vacio??
 > Para agregar elementos a un array utilizamos el .push(), es decir, 
 >
 ```javascript
-miArray.push(nuevoElemento)
+unPeriodo.push(nuevoElemento)
 ```
 >
-> en este caso quién sería mi nuevo elemento?? Recordá que el "i" solo no sirve, ya que solamente es un número, pero combinado con alguien si, ya que nos devolvería el valor del elemento del array que es lo que queremos guardar.
+> ¿Quién sería mi nuevo elemento?? 
+> ¿Cómo accedíamos a cada elemento unPeriodo?
