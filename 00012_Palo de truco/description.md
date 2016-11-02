@@ -22,7 +22,7 @@ for(var i = 0; i < 4 ; i++){
 3
 ```
 
-¿ Si quisiera que me imprima pero a partir del 1?
+Recordá que las características del FOR, por ejemplo, con que valor inicializa i se pueden modificar a nuestro antojo.
 
 
 
