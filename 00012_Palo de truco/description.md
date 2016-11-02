@@ -9,7 +9,7 @@ Queremos escribir una función `paloDeTruco`, que reciba un palo por parámetro 
 Tené en cuenta que las cartas de truco incluyen todas las numeradas del 1 al 12, excepto por los 8s y los 9s.
 Observa el parámetro que recibe la función es un string "espadas", por ejemplo.
 
-Recordá que con el FOR no solamente recorremos arrays lo podemos utilizar para distintas cosas;
+Recordá que con el FOR no solamente recorremos arrays también lo podemos utilizar para otras cosas;
 
 ```javascript
 for(var i = 0; i < 4 ; i++){
