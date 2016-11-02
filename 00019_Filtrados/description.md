@@ -8,10 +8,7 @@ Ya sobre la hora :clock530:, Ana nos dejó con un problema más interesante: qui
 > Completá la función `saldosDeMesesConGanancia`. Nuevamente tiene una estructura similar a los problemas anteriores, pero, ¡no tan rápido!: esta función tiene que **devolver un array**.
 
 
-> Recordá que antes utilizabamos la variable cantidad que empezaba en 0, para ir sumando de a 1 la cantidad de saldos positivos.
->
-> En este caso la variable saldos es un número?? Fijate que es lo que va a terminar devolviendo esta función, y que estamos esperando que devuelva??? !! sí un array ! entonces saldos que tiene que ser?? como hago para iniciar un array
-o crear un array vacio??
+> Recordá que antes utilizabamos la variable `cantidad` que empezaba en 0, para ir sumando de a 1 la cantidad de saldos positivos, en este caso la variable `saldos` es un número? Fijate que es lo que va a terminar devolviendo esta función? !! > ... Sí un array ¿Cómo hacemos para inicializar un array ó en otras palabras crear un array vacio?
 >
 > Para agregar elementos a un array utilizamos el .push(), es decir, 
 >
@@ -19,5 +16,6 @@ o crear un array vacio??
 unPeriodo.push(nuevoElemento)
 ```
 >
-> ¿Quién sería mi nuevo elemento?? 
+> ¿Quién sería mi nuevoElemento??
 > ¿Cómo accedíamos a cada elemento unPeriodo?
+
