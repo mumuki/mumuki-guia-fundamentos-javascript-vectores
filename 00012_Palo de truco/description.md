@@ -22,7 +22,7 @@ for(var i = 0; i < 4 ; i++){
 3
 ```
 
-Recordá que las características del FOR, por ejemplo, con que valor inicializa i se pueden modificar a nuestro antojo.
+Recordá que las características del `FOR`, por ejemplo, con que valor inicializa `i` se pueden modificar a nuestro antojo.
 
 
 
