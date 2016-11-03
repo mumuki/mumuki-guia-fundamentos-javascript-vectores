@@ -11,3 +11,19 @@ Por ejemplo:
 > ```
 
 > Completá la función `cantidadDeMesesConGanancia`. Si prestás atención notarás que tiene una estructura similar al problema anterior :sunglasses:
+
+
+Recordá para sumar 1 unidad a una variable hay dos formas de hacerlo, utilizá la que te resulte más cómoda:
+
+> ```javascript
+// PRIMERA FORMA
+> var numero = 5;
+> numero++
+> console.log(numero) //esto imprime 6
+>
+// SEGUNDA FORMA
+> var numero = 5;
+> numero = numero + 1
+> console.log(numero) //esto imprime 6
+> ```
+
