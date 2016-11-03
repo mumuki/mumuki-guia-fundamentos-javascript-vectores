@@ -26,4 +26,3 @@ Recordá para sumar 1 unidad a una variable hay dos formas de hacerlo, utilizá 
 > numero = numero + 1
 > console.log(numero) //esto imprime 6
 > ```
-
