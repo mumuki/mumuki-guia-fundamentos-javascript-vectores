@@ -13,9 +13,9 @@ Recordá que con el FOR no solamente recorremos arrays también lo podemos utili
 
 ```javascript
 for(var i = 0; i < 4 ; i++){
-  console.log(i);
+  return(i);
 }
-//Esto me imprimirá por pantalla:
+//Esto devolverá:
 0
 1
 2
