@@ -17,3 +17,4 @@ Como vemos, `push` agrega un elemento a la lista.
 >
 > Investigá en la consola qué hace y presta especial atención a este doble comportamiento del pop(), por ejemplo: `pertenencias.pop()`
 
+
