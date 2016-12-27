@@ -15,7 +15,7 @@ Recordá que con el FOR no solamente recorremos arrays también lo podemos utili
 for(var i = 0; i < 4 ; i++){
   console.log(i);
 }
-//Esto devolverá:
+//Esto imprimirá por consola:
 0
 1
 2
