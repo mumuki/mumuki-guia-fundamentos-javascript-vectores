@@ -12,14 +12,14 @@ Observa el parámetro que recibe la función es un string "espadas", por ejemplo
 Recordá que con el FOR no solamente recorremos arrays también lo podemos utilizar para otras cosas;
 
 ```javascript
+function Ejemplo(){
+var arrayEjemplo = []
 for(var i = 0; i < 4 ; i++){
-  console.log(i);
+  arrayEjemplo.push(i);
 }
-//Esto imprimirá por consola:
-0
-1
-2
-3
+return arrayEjemplo
+}
+Ejemplo() devolverá [0, 1, 2, 3]
 ```
 
 Recordá que las características del `FOR`, por ejemplo, con que valor inicializa `i` se pueden modificar a nuestro antojo.
