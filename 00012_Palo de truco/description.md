@@ -19,7 +19,7 @@ for(var i = 0; i < 4 ; i++){
 }
 return arrayEjemplo
 }
-Ejemplo() devolverá [0, 1, 2, 3]
+Ejemplo() retorna [0, 1, 2, 3]
 ```
 
 Recordá que las características del `FOR`, por ejemplo, con que valor inicializa `i` se pueden modificar a nuestro antojo.
