@@ -11,6 +11,6 @@ Como ves, para representar a un conjunto de strings, colocamos todos esos string
 >
 > * `seriesFavoritasDeAna`
 > * `seriesFavoritasDeHector`
-> * ["hola","mundo!"]
-> * ["hola","hola"]
+> * `["hola","mundo!"]`
+> * `["hola","hola"]`
 
